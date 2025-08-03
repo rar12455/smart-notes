@@ -1,0 +1,14 @@
+# Smart Notes - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Google Generative AI for AI assistant features
+google-generativeai>=0.3.0
+
+# Core GUI framework (usually included with Python)
+# tkinter - included with most Python installations
+
+# Standard library dependencies (included with Python)
+# json - for configuration and data storage
+# os - for file operations
+# datetime - for timestamps
+# Note: These are part of Python standard library and don't need installation
