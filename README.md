@@ -44,7 +44,7 @@ A modern, elegant note-taking application with AI assistance powered by Google G
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/smart-notes.git
+   git clone https://github.com/rar12455/smart-notes.git
    cd smart-notes
    ```
 
